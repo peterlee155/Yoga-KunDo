@@ -1,0 +1,6 @@
+{
+  "name": "Jeet Yoga",
+  "description": "Martial arts yoga training combining JKD principles with mobility, offline modules, progress tracking, local partner matching, and RevenueCat premium memberships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
